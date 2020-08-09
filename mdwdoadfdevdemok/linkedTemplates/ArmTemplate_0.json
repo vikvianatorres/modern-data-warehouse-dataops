@@ -300,7 +300,7 @@
 					},
 					{
 						"name": "DownloadSensorData",
-						"description": "cambios",
+						"description": "VPC Agosto 2020",
 						"type": "Copy",
 						"dependsOn": [
 							{
