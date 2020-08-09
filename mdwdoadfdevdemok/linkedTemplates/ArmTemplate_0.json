@@ -300,6 +300,7 @@
 					},
 					{
 						"name": "DownloadSensorData",
+						"description": "cambios",
 						"type": "Copy",
 						"dependsOn": [
 							{
